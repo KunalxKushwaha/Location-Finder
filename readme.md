@@ -6,7 +6,7 @@ A simple yet powerful **Location Finder** tool built with basic Python libraries
 
 ## 🚀 Features
 
-- Get geographical information using:
+- Get geographical information using:-
   - 📌 Place name
   - 🌐 IP address
 - Displays:-
