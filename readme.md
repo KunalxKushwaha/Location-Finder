@@ -9,7 +9,7 @@ A simple yet powerful **Location Finder** tool built with basic Python libraries
 - Get geographical information using:
   - 📌 Place name
   - 🌐 IP address
-- Displays:
+- Displays:-
   - Latitude & Longitude
   - City, Region, Country
   - Timezone (optional)
