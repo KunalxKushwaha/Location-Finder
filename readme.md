@@ -10,7 +10,7 @@ A simple yet powerful **Location Finder** tool built with basic Python libraries
   - 📌 Place name..
   - 🌐 IP address.
 - Displays:-
-  - Latitude & Longitude
+  - Latitude & Longitude.
   - City, Region, Country
   - Timezone (optional)
 - Clean and minimal command-line interface (CLI)
