@@ -22,7 +22,7 @@ A simple yet powerful **Location Finder** tool built with basic Python libraries
 - **Python 3.x**
 - `geopy` – for geocoding place names.
 - `requests` – for IP-based location lookup.
-- `ipinfo` / `ip-api` – free APIs for IP geolocation
+- `ipinfo` / `ip-api` – free APIs for IP geolocation.
 
 ---
 
