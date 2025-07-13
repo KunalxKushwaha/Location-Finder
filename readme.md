@@ -11,7 +11,7 @@ A simple yet powerful **Location Finder** tool built with basic Python libraries
   - 🌐 IP address.
 - Displays:-
   - Latitude & Longitude.
-  - City, Region, Country
+  - City, Region, Country.
   - Timezone (optional).
 - Clean and minimal command-line interface (CLI)
 
