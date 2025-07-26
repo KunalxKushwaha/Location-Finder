@@ -12,7 +12,7 @@ A simple yet powerful **Location Finder** tool built with basic Python libraries
 - Displays:-
   - Latitude & Longitude
   - City, Region, Country
-  - Timezone (optional)
+  - Timezone (optional).
 - Clean and minimal command-line interface. (CLI)
 
 ---
