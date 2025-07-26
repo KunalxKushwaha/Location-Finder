@@ -8,7 +8,7 @@ A simple yet powerful **Location Finder** tool built with basic Python libraries
 
 - Get geographical information using:-
   - 📌 Place name.
-  - 🌐 IP address.
+  - 🌐 IP address
 - Displays:-
   - Latitude & Longitude.
   - City, Region, Country.
